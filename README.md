@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on The Indian Vidhyarti Website
+- 🔭 I’m currently working on The Indian Vidhyarthi Website
 - 🌱 I’m currently learning WebDev
 <!--
 **HardikBansal206/HardikBansal206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
