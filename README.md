@@ -34,7 +34,7 @@
 #### IEEE TEMS Club Website
 <img src="https://github.com/tarush10000/tarush10000/assets/62472697/54860e2f-0c8e-447c-b617-407ade7f0a39" height="250">
 
-[Check the repo here](https://github.com/tarush10000/TEMS-Static) <br>
+[Check the repo here](https://github.com/PIYUSH1927/TEMS-Static) <br>
 [Check the project here](https://ieeetemsvit.in)
 
 - **Languages Used:** HTML, CSS, Bootstrap, JavaScript
@@ -56,12 +56,12 @@
 [Check the project here](https://starpath.netlify.app/)
 
 - **Languages Used:** HTML, CSS, JavaScript
-- **Description:**  A fun project to learn HTML, CSS and JS for an intra-club competition (IEEE - TEMS)
+- **Description:**  A fun project to learn HTML, CSS, and JS for an intra-club competition (IEEE - TEMS)
 
 #### FixerZ
 <img src="https://github.com/tarush10000/tarush10000/assets/62472697/9b7751de-0bce-463b-91fd-c815e4e99f8e" height="250">
 
-[Check the repo here](https://github.com/tarush10000/FixerZ) <br>
+[Check the repo here](https://github.com/HardikBansal206/FixerZ) <br>
 [Check the project here](https://github.com/tarush10000/FixerZ/releases/tag/FixerZ)
 
 
